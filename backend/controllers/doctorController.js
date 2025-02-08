@@ -22,4 +22,7 @@ const doctorList = async (req, res) => {
   }
 };
 
+
+
+
 module.exports = { changeAvailablity, doctorList };
